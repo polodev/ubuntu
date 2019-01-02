@@ -26,5 +26,9 @@ keep "position on screen"  value Left
 enable use built in theme
 ~~~
 
+* merge 2 bar using        
+Dash to Panel extension      
+
+type `alt + f2` and type `r`
 
 
