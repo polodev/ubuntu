@@ -3,7 +3,7 @@
 ~~~bash
 sudo apt install gnome-shell-extensions 
 sudo apt-get install chrome-gnome-shell
-sudo apt instal gnome-tweak-tool
+sudo apt install gnome-tweak-tool
 ~~~
 
 go to gnome extensions website and download dash to dock.        
