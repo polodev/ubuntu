@@ -1,9 +1,7 @@
 # how to minimize on click on app icon 
 
 ~~~bash
-sudo apt install gnome-shell-extensions 
-sudo apt-get install chrome-gnome-shell
-sudo apt install gnome-tweak-tool
+sudo apt install gnome-shell-extensions chrome-gnome-shell gnome-tweak-tool
 ~~~
 
 go to gnome extensions website and download dash to dock.        
