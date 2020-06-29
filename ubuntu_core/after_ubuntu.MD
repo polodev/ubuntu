@@ -39,6 +39,16 @@ git config --global credential.helper /usr/share/doc/git/contrib/credential/gnom
 ~~~
 we can logout from `password and keys > login >  network password`
 
+Facing problem  while installing `libgnome-keyring-dev`. Getting solution from following link     
+
+https://github.com/atom/node-keytar/issues/18
+
+~~~
+i got it working by manually installing two debian packages:
+http://http.us.debian.org/debian/pool/main/libg/libgnome-keyring/libgnome-keyring-common_3.12.0-1_all.deb
+http://http.us.debian.org/debian/pool/main/libg/libgnome-keyring/libgnome-keyring0_3.12.0-1+b2_amd64.deb
+~~~
+
 ### for finger print in ubuntu
 ~~~
 sudo add-apt-repository ppa:fingerprint/fingerprint-gui
