@@ -43,6 +43,8 @@ Facing problem  while installing `libgnome-keyring-dev`. Getting solution from f
 
 https://github.com/atom/node-keytar/issues/18
 
+
+
 ~~~
 i got it working by manually installing two debian packages:
 http://http.us.debian.org/debian/pool/main/libg/libgnome-keyring/libgnome-keyring-common_3.12.0-1_all.deb
